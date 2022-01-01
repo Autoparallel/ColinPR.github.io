@@ -6,3 +6,6 @@ src = "src"
 title = "Colin Roberts"
 [preprocessor.index]
 [preprocessor.links]
+[build]
+build-dir = "docs"
+create-missing = false
