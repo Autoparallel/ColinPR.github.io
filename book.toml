@@ -7,4 +7,4 @@ title = "Colin Roberts"
 [preprocessor.index]
 [preprocessor.links]
 [build]
-build-dir = "my-example-book"
+build-dir = "docs"
