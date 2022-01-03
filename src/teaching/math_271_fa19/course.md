@@ -37,7 +37,7 @@ Homeworks were assigned roughly every week.
 
 [Homework 10](files/homework_10.pdf)
 
-[Homework 10](files/homework_11.pdf)
+[Homework 11](files/homework_11.pdf)
 
 ### Solutions
 

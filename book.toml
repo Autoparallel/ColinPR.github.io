@@ -11,3 +11,5 @@ build-dir = "docs"
 create-missing = true
 [output.html]
 mathjax-support = true
+[output.html.fold]
+enable = true
